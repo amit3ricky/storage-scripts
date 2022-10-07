@@ -1,0 +1,15 @@
+{
+  "name": "storage-scripts",
+  "version": "1.0.0",
+  "description": "to get storage unit worth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "machine",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "request": "^2.88.2"
+  }
+}
